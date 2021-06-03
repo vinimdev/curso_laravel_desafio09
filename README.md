@@ -6,4 +6,4 @@
 
 Opcional
 6. Configurar a seed e factory do usuário, para já alimentar junto com o comando db:seed
-7. Criar a listadem de usuário no mesmo padrão do Product (sem exibir a senha, pelo amor...)
+7. Criar a listadem de usuário no mesmo padrão do Product (sem exibir a senha)
